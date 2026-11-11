@@ -1,0 +1,24 @@
+
+<resources>
+    <string name="app_name">IOSCalculator</string>
+
+    <string name="history_title">Historial</string>
+    <string name="back_button">Volver</string>
+    <string name="clear_history">Limpiar</string>
+    <string name="empty_history">No hay operaciones</string>
+
+    <string name="error_general">Error</string>
+    <string name="error_division_by_zero">No se puede dividir entre cero</string>
+    <string name="error_invalid_input">Entrada inválida</string>
+    <string name="error_invalid_result">Resultado inválido</string>
+
+    <string name="button_clear">AC</string>
+    <string name="button_sign">+/-</string>
+    <string name="button_percentage">%</string>
+    <string name="button_divide">÷</string>
+    <string name="button_multiply">×</string>
+    <string name="button_subtract">−</string>
+    <string name="button_add">+</string>
+    <string name="button_decimal">.</string>
+    <string name="button_equals">=</string>
+</resources>
